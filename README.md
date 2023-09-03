@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I am Nadun Nissanka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
 
-<!--
-**naduncalcey/naduncalcey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building Websites and UX designs.
 
-Here are some ideas to get you started:
+⚡ Fun Facts:
+- 👯 Open to collaborate on projects that are using React, HTML, CSS and JS.
+- 🌱 I’m currently working as an UI Engineer at [Calcey](https://calcey.com/)
+- 🥅 Goal: Become a master in Frontend Development.
+- 📫 How to reach me: [Portfolio](https://nadunnissankauiux.netlify.app/)
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### ⭐ GitHub Stats
+
+ <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=naduncalcey&count_private=true&show_icons=true&theme=default&line&count_private=true" alt="Nadun Stats" width="420"/> 
+ </p>
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/naduncalcey"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nadun-nissanka-31782b19b"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
